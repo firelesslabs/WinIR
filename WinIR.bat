@@ -1,5 +1,5 @@
 @ECHO OFF
-:: This is SecEng Windows IR file
+:: This script collects Windows artifacts for incident response 
 TITLE System Info
 ECHO ==============================
 ECHO Date / Time
