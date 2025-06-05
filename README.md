@@ -1,6 +1,6 @@
 # Winsponse
 
-![Alt Text](ChatGPT Image Jun 5, 2025, 04_21_52 PM.png) 
+![Logo](Winsponse.png)
 
 Windows Incident Response Kit
 
