@@ -1,6 +1,6 @@
 # Winsponse
 
-![Logo](Winsponse.png)
+![Logo](winsponse1.png)
 
 Windows Incident Response Kit
 
