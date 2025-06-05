@@ -1,4 +1,7 @@
 # Winsponse
+
+![Alt Text](ChatGPT Image Jun 5, 2025, 04_21_52 PM.png) 
+
 Windows Incident Response Kit
 
 This script can be run on an infected host to collect various Windows data elements.  
